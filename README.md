@@ -16,7 +16,7 @@ Durch Rechtsswipen gelangt man auf eine vollständige Liste aller Talks und Barc
 
 
 Um die App individuell für sich zu nutzen sollte es ermöglicht werden, durch doppeltes anklicken spezifische Events auszuwählen. **Screenshot**
-[IMG_0002.PNG](Screenshot1)
+![Screenshot 1](IMG_0002.PNG)
 Die Auswahl wird dann in einem personenabhängigen Terminplaner angezeigt (vierte Seite)        **Screenshot**
 
 Damit soll der Nutzer die Möglichkeit erhalten, einen eigenen Eventplan erstellen zu können um später eine bessere Übersicht zu haben.
