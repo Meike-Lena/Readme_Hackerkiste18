@@ -3,10 +3,9 @@
 
 Die Hackerkiste ist schon wieder vorbei und auch dieses Jahr waren wir dabei.:smile:
 
-Unser Team aus Designern, Front- und Backendentwicklern erarbeiteten in zwei Tagen einen Prototypen. 
-Mit dem Ziel auch bei der Hackerkiste die Digitalisierung 4.0 voranzutreiben entstand die **Hackerkisten-App**.
-
-Eine App, die bei der gesamte Planung und Orientierung für jeden eine individuelle Hilfestellung leisten soll.
+<p>Unser Team aus Designern, Front- und Backendentwicklern erarbeiteten in zwei Tagen einen Prototypen. <br>
+Mit dem Ziel auch bei der Hackerkiste die Digitalisierung 4.0 voranzutreiben entstand die **Hackerkisten-App**. <br>
+Eine App, die bei der gesamte Planung und Orientierung für jeden eine individuelle Hilfestellung leisten soll.</p>
 
 ![Bild 1](Hackerkiste18-Screenshots.png)
 <p> Das Designerteam entwarf ein Konzept mit mehreren Screens.<br>
@@ -26,6 +25,4 @@ Weitere Features wie
 - die Ampel-Anzeige, (die Auskunft darüber gibt, wie gut ein Event besucht sein wird)
 und viele mehr möchten wir deshalb im folgenden Jahr ergänzen. 
 
-
-Verwendung - wie wird das projekt nach der Installation verwendet/ Screenshots
-:+1:
+Nochmal Danke an das tolle Team! :+1:
