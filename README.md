@@ -1,29 +1,26 @@
 # **Readme_Hackerkiste18**
 ## Cross-Platform-Entwicklung von 0 auf 100
 
-Beschreibung
 Die Hackerkiste ist schon wieder vorbei und auch dieses Jahr waren wir dabei.:smile:
 
 Unser Team aus Designern, Front- und Backendentwicklern erarbeiteten in zwei Tagen einen Prototypen. 
 Mit dem Ziel auch bei der Hackerkiste die Digitalisierung 4.0 voranzutreiben entstand die **Hackerkisten-App**.
 Eine App, die bei der gesamte Planung und Orientierung für jeden eine individuelle Hilfestellung geben soll.
 
-Das Designerteam entwarf ein Konzept mit mehreren Screens, die durch Swipen gewechselt werden.
+![Bild 1](Hackerkiste18-Screenshots.png)
+Das Designerteam entwarf ein Konzept mit mehreren Screens.
 
-Beim Starten der App wird immer die zweite Seite, mit Uhrzeit und allen aktuellen Events, angezeigt. **Screenshot**
+Beim Starten der App wird immer die die Gesamtübersicht mit der Uhrzeit und allen aktuellen Events angezeigt. 
 
 Durch Rechtsswipen gelangt man auf eine vollständige Liste aller Talks und Barcamps.
 
-
-Um die App individuell für sich zu nutzen sollte es ermöglicht werden, durch doppeltes Anklicken spezifische Events zu makieren. **Screenshot**
-![Bild 1](Hackerkiste18-Screenshots.png)
-
-Die Auswahl wird dann in einem personenabhängigen Terminplaner angezeigt (vierte Seite).       **Screenshot**
+Um die App individuell für sich zu nutzen sollte es hier ermöglicht werden, durch doppeltes Anklicken spezifische Events zu makieren. 
+Die Auswahl wird dann in einem personenabhängigen Terminplaner angezeigt.      
 
 Damit soll der Nutzer die Möglichkeit erhalten, einen eigenen Eventplan zu erstellen. 
 
 Umgesetzt wurde das Konzept von unseren Cross-Platform-Entwicklern.
-**Schreenshot**
+
 
 Leider konnten wir nicht alle Ideen aufgrund des Zeitmangels verwirklichen.
 Weitere Features wie
