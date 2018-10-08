@@ -5,22 +5,19 @@ Die Hackerkiste ist schon wieder vorbei und auch dieses Jahr waren wir dabei.:sm
 
 Unser Team aus Designern, Front- und Backendentwicklern erarbeiteten in zwei Tagen einen Prototypen. 
 Mit dem Ziel auch bei der Hackerkiste die Digitalisierung 4.0 voranzutreiben entstand die **Hackerkisten-App**.
-Eine App, die bei der gesamte Planung und Orientierung für jeden eine individuelle Hilfestellung geben soll.
+
+Eine App, die bei der gesamte Planung und Orientierung für jeden eine individuelle Hilfestellung leisten soll.
 
 ![Bild 1](Hackerkiste18-Screenshots.png)
-Das Designerteam entwarf ein Konzept mit mehreren Screens.
+<p> Das Designerteam entwarf ein Konzept mit mehreren Screens.<br>
+Beim Starten der App wird immer die die Gesamtübersicht mit der Uhrzeit und allen aktuellen Events angezeigt. <br>
+Durch Rechtsswipen gelangt man auf eine vollständige Liste aller Talks und Barcamps.</p>
 
-Beim Starten der App wird immer die die Gesamtübersicht mit der Uhrzeit und allen aktuellen Events angezeigt. 
-
-Durch Rechtsswipen gelangt man auf eine vollständige Liste aller Talks und Barcamps.
-
-Um die App individuell für sich zu nutzen sollte es hier ermöglicht werden, durch doppeltes Anklicken spezifische Events zu makieren. 
-Die Auswahl wird dann in einem personenabhängigen Terminplaner angezeigt.      
-
-Damit soll der Nutzer die Möglichkeit erhalten, einen eigenen Eventplan zu erstellen. 
+<p>Um die App individuell für sich zu nutzen sollte es hier ermöglicht werden, durch doppeltes Anklicken spezifische Events zu makieren.<br>
+Die Auswahl wird dann in einem personenabhängigen Terminplaner angezeigt.<br>      
+Damit soll der Nutzer die Möglichkeit erhalten, einen eigenen Eventplan zu erstellen. </p>
 
 Umgesetzt wurde das Konzept von unseren Cross-Platform-Entwicklern.
-
 
 Leider konnten wir nicht alle Ideen aufgrund des Zeitmangels verwirklichen.
 Weitere Features wie
