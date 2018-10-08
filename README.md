@@ -22,6 +22,7 @@ Weitere Features wie
 - eine Kurzbenachrichtigung bevor das nächste Event startet
 - die Navigation zum und vor Ort 
 - die Ampel-Anzeige, (die Auskunft darüber gibt, wie gut ein Event besucht sein wird)
+
 und viele mehr möchten wir deshalb im folgenden Jahr ergänzen. 
 
 Nochmal Danke an das tolle Team! :+1:
